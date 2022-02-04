@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aee0805e-98f0-4a3e-b2b5-c0497f8f024a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SiamMask/data/create_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/data/create_json.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/data/get_test_data.sh" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/data/get_test_data.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/experiments/siammask_sharp/config_vot18.json" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/experiments/siammask_sharp/config_vot18.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/tools/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/tools/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/tools/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/tools/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/benchmark_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/benchmark_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/c_region.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/c_region.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/region.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/region.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/buffer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/region.c" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/region.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/region.h" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pysot/utils/src/region.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/c_region.pxd" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/c_region.pxd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/region.pyx" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/region.pyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/buffer.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/region.c" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/region.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/region.h" beforeDir="false" afterPath="$PROJECT_DIR$/SiamMask/utils/pyvotkit/src/region.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/SiamMask" />
+  </component>
+  <component name="ProjectId" id="1YTZVXIAhJrlyRAFJpbNsABcgtM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NewDjango" type="Python.DjangoServer" factoryName="Django server">
+      <module name="NewDjango" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="NewDjango.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aee0805e-98f0-4a3e-b2b5-c0497f8f024a" name="Default Changelist" comment="" />
+      <created>1582968568597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582968568597</updated>
+      <workItem from="1582968646493" duration="5251000" />
+      <workItem from="1583292279581" duration="3466000" />
+      <workItem from="1583397588526" duration="4884000" />
+      <workItem from="1583467365562" duration="11147000" />
+      <workItem from="1583498382938" duration="691000" />
+      <workItem from="1583563273550" duration="993000" />
+      <workItem from="1584587430580" duration="3125000" />
+      <workItem from="1584765294934" duration="4039000" />
+      <workItem from="1584787753366" duration="1221000" />
+      <workItem from="1585134232495" duration="1220000" />
+      <workItem from="1585187526634" duration="4536000" />
+      <workItem from="1585270883541" duration="5186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1584788375136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584788375136" />
+    <state width="1877" height="186" key="GridCell.Tab.0.bottom" timestamp="1585277351356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="186" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585277351356" />
+    <state width="1877" height="186" key="GridCell.Tab.0.center" timestamp="1585277351355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="186" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585277351355" />
+    <state width="1877" height="186" key="GridCell.Tab.0.left" timestamp="1585277351355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="186" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585277351355" />
+    <state width="1877" height="186" key="GridCell.Tab.0.right" timestamp="1585277351356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="186" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585277351356" />
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1585270887776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585270887776" />
+  </component>
+</project>

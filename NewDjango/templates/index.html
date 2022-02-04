@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+<form method="post" action="/" enctype="multipart/form-data"> #上传文件时必须包含enctype属性
+    {% csrf_token %}
+    {{ forms }}<br>
+    <input type="submit" value="提交">
+</form>
+</body>
+</html>
